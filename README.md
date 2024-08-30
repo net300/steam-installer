@@ -1,2 +1,4 @@
 first make sure you have the winget;
-open the exe file and press enterkey
+if you want to install the steam;
+press y
+if not you can press what you want
