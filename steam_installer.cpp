@@ -6,7 +6,7 @@ int main()
     char input;
     std::cin >> input;
     bool Yes;
-    Yes = (input == ('Y' or 'y'));
+    Yes = (input == 'Y');
     if (Yes)
         system("winget install --id Valve.Steam -i");
     else
